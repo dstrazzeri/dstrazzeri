@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danielle-yvette-strazzeri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielle-yvette-strazzeri/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dstrazzeri&show_icons=true&title_color=ffc2f7&text_color=ffffff&bg_color=e486fe&locale=en&layout=compact" alt="dstrazzeri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dstrazzeri&show_icons=true&title_color=ffc2f7&text_color=ffffff&bg_color=e486fe&locale=en" alt="dstrazzeri" /></p>
+
 
 
