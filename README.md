@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle Strazzeri</h1>
-<h3 align="center">A passionate Full Stack Web Developer | Software Engineer from Harrison, New Jersey</h3>
+<h3 align="center">A passionate Full Stack Web Developer | from Harrison, New Jersey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dstrazzeri" alt="dstrazzeri" /></a> </p>
 
