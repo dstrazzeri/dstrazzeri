@@ -5,7 +5,7 @@
 
 - 🔭I'm currently working on [North Eastern New York Orchid Society (NENYOS) Website](https://github.com/dstrazzeri/nenyoswebsite)
 
-- 🌱 I'm currently learning **JavaScript, TypeScript, Flutter, & MongoDB**
+- 🌱 I'm currently learning **Playwright, TypeScript, Flutter, & MongoDB**
 
 - 👯I'm looking to collaborate on **anything! Let's build something cool together!**
 
